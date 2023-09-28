@@ -1,5 +1,5 @@
-<p align="center"><strong>Hello 😊, I'm Juan Diego</strong></p>
-<p align="center"><em>I am a self-taught programmer with an insatiable passion for programming. My innovative approach allows me to provide effective and agile solutions to programming challenges. With a proven ability to learn quickly, my journey in the world of programming has spanned a variety of languages and technologies. My commitment to efficiency and creativity is reflected in every line of code I write. Welcome to my space, where I share my learning and development journey!</em></p>
+<h1 align="center"><strong>Hello 😊, I'm Juan Diego</strong></h1>
+<h3 align="center"><em>I am a self-taught programmer with an insatiable passion for programming. My innovative approach allows me to provide effective and agile solutions to programming challenges. With a proven ability to learn quickly, my journey in the world of programming has spanned a variety of languages and technologies. My commitment to efficiency and creativity is reflected in every line of code I write. Welcome to my space, where I share my learning and development journey!</em></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanramirez871&label=Profile%20views&color=0e75b6&style=flat" alt="juanramirez871" /> </p>
 
