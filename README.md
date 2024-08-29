@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanramirez871&label=Profile%20views&color=0e75b6&style=flat" alt="juanramirez871" /> </p>
 
-- 🌱 I’m currently learning **testing and bash**
+- 🌱 I’m currently learning **Artificial intelligence**
 
-- 📫 How to reach me **juandiegoramirez098@gmail.com**
+- 📫 How to reach me **juandiegoramirez071@gmail.com**
   
 - 🧑‍💻  My site web **https://juan-mogotocoro.vercel.app/**
 
