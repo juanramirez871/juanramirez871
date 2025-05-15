@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **juandiegoramirez071@gmail.com**
   
-- 🧑‍💻  My site web **https://juan-mogotocoro.vercel.app/**
+[- 🧑‍💻  My site web **https://juan-mogotocoro.vercel.app/**]: #
 
 - ⚡ Fun fact **programming is art**
 
